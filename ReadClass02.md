@@ -1,3 +1,6 @@
+# class-readings-02-github.io
+
+
 What is one benefit of JavaScript not enforcing type?
 Dont have to explicitly initialize any data.Java script takes care of that.
 
