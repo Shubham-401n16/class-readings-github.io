@@ -1,5 +1,7 @@
 # class-readings-01-github.io
-Why would you want to run JavaScript code outside of a browser? 
+
+
+    Why would you want to run JavaScript code outside of a browser? 
 
     This lets us do more with java script aside from building simple web sites
     
